@@ -1,0 +1,3 @@
+# LicenseDialog
+
+SwiftUI license dialog
